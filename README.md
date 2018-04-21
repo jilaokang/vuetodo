@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Vue Todo 小例子
-=======
-# Vue - todo小例子
->>>>>>> 224a7c074a6fb20e8d5e107dc144d297efd53a88
 
 > A Vue.js project
 
