@@ -8,6 +8,7 @@
 
 <script>
 export default {
+  /* 从外部接收name */
   props: {
     name: {
       type: String,
